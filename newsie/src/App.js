@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import React, {useState, useEffect} from 'react'
 import { goFetch } from './apiCalls';
+import NewsReel from './NewsReel';
 import './App.css';
 
 
@@ -9,8 +10,8 @@ function App() {
   const [science, setScience] = useState([])
   const [home, setHome] = useState([])
   const [us, setUs] = useState([])
-  // const [art, setArt] = useState([])
   const [world, setWorld] = useState([])
+  const [highlighted, setHighlighted] = useState(null)
 
   useEffect(() => {
     goFetch('science')
@@ -24,17 +25,17 @@ function App() {
     goFetch('world')
     .then(data => setWorld(data.results))
   }, [] )
+
+ 
+  
   
 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          {/* {home && home[0]} */}
-        </p>
-        
-      </header>
+      <NewsReel 
+      home={home}
+      setHighlighted={setHighlighted}
+      />
     </div>
   );
 }
