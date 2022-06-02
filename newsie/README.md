@@ -1,6 +1,10 @@
 # newsie
 
-Get with the times! The NY Times, that is... Get recent news headlines and articles in a fun desktop application. 
+News got you down?  Do you need an app that filters out the noise and gives you only the important junk?
+
+Newsie does just that!
+
+Get recent news headlines and articles on only the three most important topics, Movies, Obituaries and Food. Who could ask for anything more?
 
 ## Usage
 Upon opening the application, you will be greeted with a scrolling list of hews headlines and images. 
