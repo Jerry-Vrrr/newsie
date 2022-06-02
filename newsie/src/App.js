@@ -5,6 +5,7 @@ import NewsReel from './NewsReel';
 import './App.css';
 import Header from './Header';
 import Modal from './Modal';
+import Filter from './Filter';
 
 
 function App() {
@@ -21,7 +22,6 @@ function App() {
   const filterFetch = (type) => {
     goFetch(type)
     .then(data => setHome(data.results))
-
   }
  
   
@@ -30,6 +30,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <Filter fetch={filterFetch} />
       {modalOpen && <Modal modalOpen={modalOpen} setModalOpen={setModalOpen} highlighted={highlighted} />}
       <NewsReel 
       home={home}
