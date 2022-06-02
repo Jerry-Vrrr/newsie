@@ -22,13 +22,14 @@ click on the filter buttons to receive a more specific selection of articles.
 1. React
 
 ## Planning
+I thought an old school wireframe was the way to go for this challenge for time and simplicities sake. 
+
+![20220602_143536](https://user-images.githubusercontent.com/92649050/171724795-d0045346-900c-429c-bda5-5e7f0c47fee4.jpeg)
+
+
 ![20220602_143541](https://user-images.githubusercontent.com/92649050/171724595-8c45c045-b1d8-4c53-87bc-6780e8f719ab.jpeg)
 
-
-
 ## Future Iterations
-
-
 
 ## Project Members
 This project was designed and implemented by [Jerry Vohrer](https://github.com/Jerry-Vrrr)
