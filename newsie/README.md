@@ -5,9 +5,17 @@ Get with the times! The NY Times, that is... Get recent news headlines and artic
 ## Usage
 Upon opening the application, you will be greeted with a scrolling list of hews headlines and images. 
 
+![Screen Shot 2022-06-02 at 3 37 47 PM](https://user-images.githubusercontent.com/92649050/171735423-6255efdb-ebcf-4f0c-80b3-aa87b7916ed8.png)
+
 Click on any of them and a modal will open showing more info along with a link to the full article. 
 
+![Screen Shot 2022-06-02 at 3 38 03 PM](https://user-images.githubusercontent.com/92649050/171735506-1e52faaf-bb3e-4cb8-994a-3008de9596b6.png)
+![Screen Shot 2022-06-02 at 3 38 19 PM](https://user-images.githubusercontent.com/92649050/171735523-1fb794b8-a252-4172-b021-c0a557a996a8.png)
+
+
 click on the filter buttons to receive a more specific selection of articles. 
+
+![Screen Shot 2022-06-02 at 3 38 41 PM](https://user-images.githubusercontent.com/92649050/171735462-4869619a-d50d-40cc-8af1-6d101238a0c6.png)
 
 
 ## How to Install
