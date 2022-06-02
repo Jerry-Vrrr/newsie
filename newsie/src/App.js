@@ -15,7 +15,7 @@ function App() {
   const [modalOpen, setModalOpen] =useState(false)
 
   useEffect(() => {
-    goFetch('home')
+    goFetch('obituaries')
     .then(data => setHome(data.results))
   }, [] )
 
@@ -25,8 +25,6 @@ function App() {
   }
  
   
-  
-
   return (
     <div className="App">
       <Header />
