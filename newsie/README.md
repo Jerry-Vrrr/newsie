@@ -37,7 +37,11 @@ Fun for the whole family.
 
 ## Structure
 App ->
+
+
 Filter
+
+
 NewsReel -> Article
 
 ## Planning
