@@ -35,6 +35,11 @@ Fun for the whole family.
 ## Technologies Used
 1. React
 
+## Structure
+App ->
+Filter
+NewsReel -> Article
+
 ## Planning
 I thought an old school wireframe was the way to go for this challenge for time and simplicities sake. 
 
