@@ -7,6 +7,7 @@ Newsie does just that!
 Get recent news headlines and articles on only the three most important topics, Movies, Obituaries and Food. Who could ask for anything more?
 
 ## Usage
+
 Upon opening the application, you will be greeted with a scrolling list of hews headlines and images. 
 
 ![Screen Shot 2022-06-02 at 3 37 47 PM](https://user-images.githubusercontent.com/92649050/171735423-6255efdb-ebcf-4f0c-80b3-aa87b7916ed8.png)
